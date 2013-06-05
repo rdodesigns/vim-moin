@@ -1,0 +1,5 @@
+MoinMoin syntax file for Vim
+============================
+
+Based on http://moinmo.in/VimHighlighting but updated for the recent version
+of MoinMoin (1.9) and does not overwrite colorscheme configuration.
